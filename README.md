@@ -14,4 +14,4 @@ Increased "MPG_City" values by 3 using lambda.
 # Tools & Skills
 Pandas | Data Cleaning | Feature Engineering | Aggregation
 
-<img width="1314" height="674" alt="Complete Project SC" src= "https://github.com/user-attachments/assets/0b8fb55b-963d-4844-9f78-39fb22a17cf1"](https://github.com/Ashishhhh2/Data-Analyst-Car-Dataset/blob/main/Car%20Dataset.png />
+<img width="1314" height="674" alt="Complete Project SC" src= https://github.com/Ashishhhh2/Data-Analyst-Car-Dataset/blob/main/Car%20Dataset.png/>
